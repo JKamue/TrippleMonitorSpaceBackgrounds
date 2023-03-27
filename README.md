@@ -9,6 +9,18 @@ None of these pictures were taken by me (sadly I dont possess multimillion-dolla
 
 Some of the pictures are cropped or rotated to better suit 3 monitors but colors and other features have not been altered.
 
+
+## Usage
+
+### Windows
+
+1. Go to your `Background image settings`
+2. Set `Background` to `Slideshow`
+3. Then browse to the img folder of your copy of this repository
+4. For `Choose a fit` set `Span`
+
+Personally I set the `Change picture every` setting to `1 minute` and activate `Shuffle`. But you might prefer other settings.
+
 ## Images
 
 | Image | Title | Source |
@@ -32,14 +44,3 @@ Some of the pictures are cropped or rotated to better suit 3 monitors but colors
 | [opportunity.jpg](img/opportunity.jpg) | Greeley Panorama' from Opportunity's Fifth Martian Winter | [NASA/JPL-Caltech/Cornell/Arizona State Univ.](https://www.jpl.nasa.gov/images/pia15689-greeley-panorama-from-opportunitys-fifth-martian-winter-false-color) |
 | [Space_Station_stitch.jpg](img/Space_Station_stitch.jpg) | Space Station stitch | [Esa & L. Brandon-Cremer](https://www.esa.int/ESA_Multimedia/Images/2020/06/Space_Station_stitch) |
 | [wideviewofmysticmountain-3.jpg](img/wideviewofmysticmountain-3.jpg) | Wide view of “Mystic Mountain” | [NASA/ESA Hubble](https://esahubble.org/images/heic1007c/) |
-
-## Usage
-
-### Windows
-
-1. Go to your `Background image settings`
-2. Set `Background` to `Slideshow`
-3. Then browse to the img folder of your copy of this repository
-4. For `Choose a fit` set `Span`
-
-Personally I set the `Change picture every` setting to `1 minute` and activate `Shuffle`. But you might prefer other settings.
