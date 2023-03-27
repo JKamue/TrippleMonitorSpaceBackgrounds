@@ -27,7 +27,7 @@ Some of the pictures are cropped or rotated to better suit 3 monitors but colors
 | [jameswebb.jpg](img/jameswebb.jpg) | “Cosmic Cliffs” in the Carina Nebula (NIRCam Image) | [NASA Webb Space Telescope](https://webbtelescope.org/contents/media/images/2022/031/01G77PKB8NKR7S8Z6HBXMYATGJ?Type=Observations&itemsPerPage=100&page=1) |
 | [jameswebb3.jpg](img/jameswebb3.jpg) | Stephan's Quintet (NIRCam and MIRI Composite Image) | [NASA Webb Space Telescope](https://webbtelescope.org/contents/media/images/2022/034/01G7DA5ADA2WDSK1JJPQ0PTG4A?Type=Observations&itemsPerPage=100&page=1) |
 | [jupiter.jpg](img/jupiter.jpg) | NASA's Juno Mission Reveals Jupiter's Complex Colors | [NASA/JPL-Caltech/SwRI/MSSSImage processing by Björn Jónsson](https://www.jpl.nasa.gov/images/pia25018-nasas-juno-mission-reveals-jupiters-complex-colors) |
-| [mars.jpg](img/mars.jpg) | Unknown Mars Rover Panorama | ?? |
+| [mars.jpg](img/mars.jpg) |  Mosaic of MastCam pictures taken by the MSL/Curiosity rover on Mars | https://de.wikipedia.org/wiki/Datei:Martian-Sunset-O-de-Goursac-Curiosity-2013.jpg |
 | [nh-apluto-wide-9-17-15-final_0.png](img/nh-apluto-wide-9-17-15-final_0.png) | Pluto’s Majestic Mountains, Frozen Plains and Foggy Hazes |  [New Horizons Image Gallery](https://www.nasa.gov/mission_pages/newhorizons/images/index.html)| 
 | [opportunity.jpg](img/opportunity.jpg) | Greeley Panorama' from Opportunity's Fifth Martian Winter | [NASA/JPL-Caltech/Cornell/Arizona State Univ.](https://www.jpl.nasa.gov/images/pia15689-greeley-panorama-from-opportunitys-fifth-martian-winter-false-color) |
 | [Space_Station_stitch.jpg](img/Space_Station_stitch.jpg) | Space Station stitch | [Esa & L. Brandon-Cremer](https://www.esa.int/ESA_Multimedia/Images/2020/06/Space_Station_stitch) |
