@@ -24,6 +24,9 @@ Some of the pictures are cropped or rotated to better suit 3 monitors but colors
 | `51117111494_797987b22c_5k.jpg` | The SpaceX Crew Dragon maneuvers to another port | [NASA Johnson flickr](https://www.flickr.com/photos/nasa2explore/51117111494/) |
 | `carina_hst_big.jpg` | Carina Nebula Panorama from Hubble | [Astronomy Picture of the Day](https://apod.nasa.gov/apod/ap190623.html) |
 | `darksideimage_unann.png` | Dark Side Unann | [Nasa image Database](https://www.nasa.gov/sites/default/files/thumbnails/image/darksideimage_unann.png) |
+| `jameswebb.jpg` | “Cosmic Cliffs” in the Carina Nebula (NIRCam Image) | [NASA Webb Space Telescope](https://webbtelescope.org/contents/media/images/2022/031/01G77PKB8NKR7S8Z6HBXMYATGJ?Type=Observations&itemsPerPage=100&page=1) |
+| `jameswebb3.jpg` | Stephan's Quintet (NIRCam and MIRI Composite Image) | [NASA Webb Space Telescope](https://webbtelescope.org/contents/media/images/2022/034/01G7DA5ADA2WDSK1JJPQ0PTG4A?Type=Observations&itemsPerPage=100&page=1) |
+| `jupiter.jpg` | NASA's Juno Mission Reveals Jupiter's Complex Colors | [NASA/JPL-Caltech/SwRI/MSSSImage processing by Björn Jónsson](https://www.jpl.nasa.gov/images/pia25018-nasas-juno-mission-reveals-jupiters-complex-colors) |
 | `mars.jpg` | Unknown Mars Rover Panorama | ?? |
 | `nh-apluto-wide-9-17-15-final_0.png` | Pluto’s Majestic Mountains, Frozen Plains and Foggy Hazes |  [New Horizons Image Gallery](https://www.nasa.gov/mission_pages/newhorizons/images/index.html)| 
 | `opportunity.jpg` | Greeley Panorama' from Opportunity's Fifth Martian Winter | [NASA/JPL-Caltech/Cornell/Arizona State Univ.](https://www.jpl.nasa.gov/images/pia15689-greeley-panorama-from-opportunitys-fifth-martian-winter-false-color) |
